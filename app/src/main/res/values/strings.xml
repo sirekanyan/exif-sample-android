@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exif</string>
+    <string name="input_filename">kotlin-android.jpg</string>
+    <string name="button_text">orientation %d</string>
+</resources>
